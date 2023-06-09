@@ -42,11 +42,131 @@ Logic Design with Vitis-HLS
 <details>
   <summary> Section 3: Hardware / Software Setup </summary>
 
-  -   [13. ]()      
-  -   [14. ]()     
+  -   [13. Introduction](./13_Introduction.md)      
+  -   [14. Vivado-HLx](./14_Vivado-HLx.md)     
+  -   [15. ]()     
+  -   [16. ]()     
+  -   [17. ]()     
 </details>
 
+<details>
+  <summary> Section 4: Basic Output </summary>
 
+  -   [18. ]()      
+  -   [19. ]()     
+  -   [20. ]()       
+  -   [21. ]()     
+  -   [22. ]()     
+  -   [23. ]()     
+  -   [24. ]()     
+  -   [25. ]()     
+  -   [26. ]()     
+  -   [27. ]()     
+  -   [28. ]()   
+  -   [29. ]()    
+</details>
+
+<details>
+  <summary> Section 5: Basic Input/Output </summary>
+
+  -   [30. ]()      
+  -   [31. ]()     
+  -   [32. ]()     
+  -   [33. ]()     
+  -   [34. ]()     
+  -   [35. ]()     
+  -   [36. ]()     
+</details>
+
+<details>
+  <summary> Section 6: Combinational Circuit </summary>
+
+  -   [37. ]()      
+  -   [38. ]()     
+  -   [39. ]()     
+  -   [40. ]()     
+  -   [41. ]()     
+  -   [42. ]()     
+  -   [43. ]()     
+  -   [44. ]()     
+  -   [45. ]()     
+  -   [46. ]()     
+  -   [47. ]()     
+  -   [48. ]()     
+  -   [49. ]()     
+</details>
+
+<details>
+  <summary> Section 7: C/C++ Testbench </summary>
+
+  -   [50. ]()      
+  -   [51. ]()     
+</details>
+
+<details>
+  <summary> Section 8: Data Type </summary>
+
+  -   [56. ]()      
+  -   [57. ]()     
+</details>
+
+<details>
+  <summary> Section 9: Conditional Statement </summary>
+
+  -   [67. ]()      
+  -   [68. ]()     
+</details>
+
+<details>
+  <summary> Section 10: Seven Segments </summary>
+
+  -   [76. ]()      
+  -   [77. ]()     
+</details>
+
+<details>
+  <summary> Section 11: Combinational Loops </summary>
+
+  -   [87. ]()      
+  -   [88. ]()     
+  -   [89. ]()     
+  -   [90. ]()     
+  -   [90. ]()     
+  -   [91. ]()     
+  -   [92. ]()     
+  -   [93. ]()     
+  -   [94. ]()     
+  -   [95. ]()     
+</details>
+
+<details>
+  <summary> Section 12: Integer Arithmetic </summary>
+
+  -   [97.  ]()      
+  -   [98.  ]()     
+  -   [99.  ]()     
+  -   [100. ]()     
+  -   [101. ]()     
+  -   [102. ]()     
+  -   [103. ]()     
+  -   [104. ]()     
+</details>
+
+<details>
+  <summary> Section 13: Projects: Home_Alarm_System </summary>
+
+  -   [105.  ]()    
+  -   [106.  ]()    
+  -   [107.  ]()    
+</details>
+
+<details>
+  <summary> Section 14: Projects: Simple Calculator </summary>
+
+  -   [108.  ]()    
+  -   [109.  ]()    
+  -   [110.  ]()    
+</details>
 
 ##  Requirements
 -   Understanding the basic concepts of C/C++ coding
