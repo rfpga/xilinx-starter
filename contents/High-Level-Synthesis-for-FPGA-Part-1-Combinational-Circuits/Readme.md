@@ -27,9 +27,26 @@ Logic Design with Vitis-HLS
 <details>
   <summary> Section 2: FPGA Concepts </summary>
 
-  -   [3. ]()      
-  -   [4. ]()     
+  -   [3.  Introduction](3_Introduction.md)      
+  -   [4.  Features and Applications](4_Features-and-Applications.md)     
+  -   [5.  Design Approach](5_Design-Approach.md)     
+  -   [6.  FPGA Platform vs CPU Platform](6_FPGA-Platform-vs-CPU-Platform.md)     
+  -   [7.  FPGA Basic](7_FPGA-Basic.md)     
+  -   [8.  LUT](8_LUT.md)     
+  -   [9.  Flip-Flop And Other Elements](9_Flip-Flop-And-Other-Elements.md)     
+  -   [10. Basys3 FPGA Development Board](10_Basys3-FPGA-Development-Board.md)     
+  -   [11. Why HLS?](11_Why-HLS%3F.md)     
+  -   [12. Hardware and Software Analogy](12_Hardware-and-Software-Analogy.md)     
 </details>
+
+<details>
+  <summary> Section 3: Hardware / Software Setup </summary>
+
+  -   [13. ]()      
+  -   [14. ]()     
+</details>
+
+
 
 ##  Requirements
 -   Understanding the basic concepts of C/C++ coding
