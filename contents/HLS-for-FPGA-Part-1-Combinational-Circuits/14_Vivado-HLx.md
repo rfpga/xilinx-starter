@@ -10,7 +10,6 @@
     <img src = "https://rfpga.s3.us-west-1.amazonaws.com/HLS-for-FPGA-Part-1-Combinational-Circuits/images/14_Vivado-HLx_4.png" width = "90%" > 
     <img src = "https://rfpga.s3.us-west-1.amazonaws.com/HLS-for-FPGA-Part-1-Combinational-Circuits/images/14_Vivado-HLx_5.png" width = "90%" > 
 
-
 </p> 
 
 </details>
