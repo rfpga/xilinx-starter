@@ -42,11 +42,11 @@ Logic Design with Vitis-HLS
 <details>
   <summary> Section 3: Hardware / Software Setup </summary>
 
-  -   [13. Introduction](./13_Introduction.md)      
-  -   [14. Vivado-HLx](./14_Vivado-HLx.md)     
-  -   [15. ]()     
-  -   [16. ]()     
-  -   [17. ]()     
+  -   [13. Introduction](13_Introduction.md)      
+  -   [14. Vivado-HLx](14_Vivado-HLx.md)     
+  -   [15. Vivado and Vivado-HLS](15_Vivado-and-Vivado-HLS.md)     
+  -   [16. Install Vivado-HLx](16_Install-Vivado-HLx.md)     
+  -   [17. Test Installation](17_Test-Installation.md)     
 </details>
 
 <details>
