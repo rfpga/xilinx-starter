@@ -23,3 +23,11 @@
 -   [PCB design with Altium Designer](./contents/PCB-design-with-Altium-Designer/Readme.md)
 
 -   [easyEDA](https://easyeda.com/)
+
+
+## some cli
+
+```
+git config --global user.name "rjgeng"
+git config --global user.email rj.geng@gmail.com
+```
