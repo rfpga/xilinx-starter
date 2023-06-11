@@ -12,6 +12,8 @@
 
 -   [FPGA Embedded Design, Part 4 - Microprocessor Design](https://www.udemy.com/course/fpga-embedded-design-cpu/)
 
+-   [Bash Scripting and Shell Programming (Linux Command Line)](https://www.udemy.com/course/bash-scripting/)
+-   [Linux Administration: The Complete Linux Bootcamp for 2023](https://www.udemy.com/course/master-linux-administration/)
 
 -   [STM32CubeMX 4 Essential Training](https://www.udemy.com/course/stm32cubemx-complete-training/)
 -   [Hands on projects with the I2C protocol - Learn by doing!](https://www.udemy.com/course/i2c-protocol/)
