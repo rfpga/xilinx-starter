@@ -27,8 +27,145 @@ Logic Design with Vitis-HLS
 <details>
   <summary> Section 2: FPGA Concepts </summary>
 
-  -   [3. ]()      
-  -   [4. ]()     
+  -   [3.  Introduction](3_Introduction.md)      
+  -   [4.  Features and Applications](4_Features-and-Applications.md)     
+  -   [5.  Design Approach](5_Design-Approach.md)     
+  -   [6.  FPGA Platform vs CPU Platform](6_FPGA-Platform-vs-CPU-Platform.md)     
+  -   [7.  FPGA Basic](7_FPGA-Basic.md)     
+  -   [8.  LUT](8_LUT.md)     
+  -   [9.  Flip-Flop And Other Elements](9_Flip-Flop-And-Other-Elements.md)     
+  -   [10. Basys3 FPGA Development Board](10_Basys3-FPGA-Development-Board.md)     
+  -   [11. Why HLS?](11_Why-HLS%3F.md)     
+  -   [12. Hardware and Software Analogy](12_Hardware-and-Software-Analogy.md)     
+</details>
+
+<details>
+  <summary> Section 3: Hardware / Software Setup </summary>
+
+  -   [13. Introduction](13_Introduction.md)      
+  -   [14. Vivado-HLx](14_Vivado-HLx.md)     
+  -   [15. Vivado and Vivado-HLS](15_Vivado-and-Vivado-HLS.md)     
+  -   [16. Install Vivado-HLx](16_Install-Vivado-HLx.md)     
+  -   [17. Test Installation](17_Test-Installation.md)     
+</details>
+
+<details>
+  <summary> Section 4: Basic Output </summary>
+
+  -   [18. Introduction](18_Introduction.md)      
+  -   [19. Output Configuration](19_Output-Configuration.md)     
+  -   [20. Controller Concept](20_Controller-Concept.md)       
+  -   [21. HLS Design Overview](21_HLS-Design-Overview.md)     
+  -   [22. HLS Design Flow](22_HLS-Design-Flow.md)     
+  -   [23. HLS C/C++ Design](23_HLS-C_Cplus-Design.md)     
+  -   [24. HLS Ports](24_HLS-Ports.md)     
+  -   [25. HLS LAB](25_HLS-LAB.md)     
+  -   [26. Vivado](26_Vivado.md)     
+  -   [27. Vivado LAB](27_Vivado-LAB.md)     
+  -   [28. Basis3 Board](28_Basis3-Board.md)   
+  -   [29. Exercises](29_Exercises.md)    
+</details>
+
+<details>
+  <summary> Section 5: Basic Input/Output </summary>
+
+  -   [30. ]()      
+  -   [31. ]()     
+  -   [32. ]()     
+  -   [33. ]()     
+  -   [34. ]()     
+  -   [35. ]()     
+  -   [36. ]()     
+</details>
+
+<details>
+  <summary> Section 6: Combinational Circuit </summary>
+
+  -   [37. ]()      
+  -   [38. ]()     
+  -   [39. ]()     
+  -   [40. ]()     
+  -   [41. ]()     
+  -   [42. ]()     
+  -   [43. ]()     
+  -   [44. ]()     
+  -   [45. ]()     
+  -   [46. ]()     
+  -   [47. ]()     
+  -   [48. ]()     
+  -   [49. ]()     
+</details>
+
+<details>
+  <summary> Section 7: C/C++ Testbench </summary>
+
+  -   [50. ]()      
+  -   [51. ]()     
+</details>
+
+<details>
+  <summary> Section 8: Data Type </summary>
+
+  -   [56. ]()      
+  -   [57. ]()     
+</details>
+
+<details>
+  <summary> Section 9: Conditional Statement </summary>
+
+  -   [67. ]()      
+  -   [68. ]()     
+</details>
+
+<details>
+  <summary> Section 10: Seven Segments </summary>
+
+  -   [76. ]()      
+  -   [77. ]()     
+</details>
+
+<details>
+  <summary> Section 11: Combinational Loops </summary>
+
+  -   [87. ]()      
+  -   [88. ]()     
+  -   [89. ]()     
+  -   [90. ]()     
+  -   [90. ]()     
+  -   [91. ]()     
+  -   [92. ]()     
+  -   [93. ]()     
+  -   [94. ]()     
+  -   [95. ]()     
+</details>
+
+<details>
+  <summary> Section 12: Integer Arithmetic </summary>
+
+  -   [97.  ]()      
+  -   [98.  ]()     
+  -   [99.  ]()     
+  -   [100. ]()     
+  -   [101. ]()     
+  -   [102. ]()     
+  -   [103. ]()     
+  -   [104. ]()     
+</details>
+
+<details>
+  <summary> Section 13: Projects: Home_Alarm_System </summary>
+
+  -   [105.  ]()    
+  -   [106.  ]()    
+  -   [107.  ]()    
+</details>
+
+<details>
+  <summary> Section 14: Projects: Simple Calculator </summary>
+
+  -   [108.  ]()    
+  -   [109.  ]()    
+  -   [110.  ]()    
 </details>
 
 ##  Requirements

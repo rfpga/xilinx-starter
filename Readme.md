@@ -4,7 +4,11 @@
 
 -   [Function Acceleration on FPGA with Vitis-Part 1: Fundamental](contents/Function-Acceleration-on-FPGA-with-Vitis-Part-1_Fundamental/)
 
--   [High-Level Synthesis for FPGA, Part 1-Combinational Circuits](contents/High-Level-Synthesis-for-FPGA-Part-1-Combinational-Circuits/)
+-   [High-Level Synthesis for FPGA, Part 1 - Combinational Circuits](contents/HLS-for-FPGA-Part-1-Combinational-Circuits/Readme.md)
+
+-   [High-Level Synthesis for FPGA, Part 2 - Sequential Circuits](contents)
+
+-   [High-Level Synthesis for FPGA, Part 3 - Advanced](contents)
 
 ---
 
@@ -19,3 +23,11 @@
 -   [PCB design with Altium Designer](./contents/PCB-design-with-Altium-Designer/Readme.md)
 
 -   [easyEDA](https://easyeda.com/)
+
+
+## some cli
+
+```
+git config --global user.name "rjgeng"
+git config --global user.email rj.geng@gmail.com
+```
