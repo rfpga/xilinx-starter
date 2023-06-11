@@ -52,18 +52,18 @@ Logic Design with Vitis-HLS
 <details>
   <summary> Section 4: Basic Output </summary>
 
-  -   [18. ]()      
-  -   [19. ]()     
-  -   [20. ]()       
-  -   [21. ]()     
-  -   [22. ]()     
-  -   [23. ]()     
-  -   [24. ]()     
-  -   [25. ]()     
-  -   [26. ]()     
-  -   [27. ]()     
-  -   [28. ]()   
-  -   [29. ]()    
+  -   [18. Introduction](18_Introduction.md)      
+  -   [19. Output Configuration](19_Output-Configuration.md)     
+  -   [20. Controller Concept](20_Controller-Concept.md)       
+  -   [21. HLS Design Overview](21_HLS-Design-Overview.md)     
+  -   [22. HLS Design Flow](22_HLS-Design-Flow.md)     
+  -   [23. HLS C/C++ Design](23_HLS-C_Cplus-Design.md)     
+  -   [24. HLS Ports](24_HLS-Ports.md)     
+  -   [25. HLS LAB](25_HLS-LAB.md)     
+  -   [26. Vivado](26_Vivado.md)     
+  -   [27. Vivado LAB](27_Vivado-LAB.md)     
+  -   [28. Basis3 Board](28_Basis3-Board.md)   
+  -   [29. Exercises](29_Exercises.md)    
 </details>
 
 <details>
