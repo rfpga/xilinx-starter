@@ -94,7 +94,54 @@ Embedded System Accelerators with Vitis and HLS
   -   [44. ]()      
 </details>
 
+<details>
+  <summary> Section 9: Linear Relationship Accelerator Example </summary>
 
+  -   [50. ]()      
+  -   [51. ]()      
+</details>
+
+<details>
+  <summary> Section 10: Loop Optimisation </summary>
+
+  -   [57. ]()      
+  -   [58. ]()      
+</details>
+
+<details>
+  <summary> Section 11: Matrix-Vector Multiplication (mxv) </summary>
+
+  -   [68. ]()      
+  -   [69. ]()      
+</details>
+
+<details>
+  <summary> Section 12: Hardware/Software Partitioning </summary>
+
+  -   [74. ]()      
+  -   [75. ]()      
+</details>
+
+<details>
+  <summary> Section 13: Project 1: Sparse Matrix-Vector Multiplication (SpMV) </summary>
+
+  -   [79. ]()      
+  -   [80. ]()      
+</details>
+
+<details>
+  <summary> Section 14: Project 2: Support Vector Machine (svm) </summary>
+
+  -   [87. ]()      
+  -   [88. ]()      
+</details>
+
+<details>
+  <summary> Section 15: Appendix </summary>
+
+  -   [92. ]()      
+  -   [93. ]()      
+</details>
 
 ##  Requirements
 -   Understanding the basic concepts of C/C++ coding
